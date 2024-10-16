@@ -653,6 +653,7 @@ p {
 		flex-direction: row;
 		justify-content: space-evenly;
 		margin: 0;
+		gap: 25px;
 	}
 	#contact .contact-item {
 		width: 30%;
