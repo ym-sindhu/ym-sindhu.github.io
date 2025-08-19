@@ -1,1 +1,0 @@
-# ym-sindhu.github.io
